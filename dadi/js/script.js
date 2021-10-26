@@ -17,7 +17,7 @@ if (pcNumber > userNumber) {
 } else if (pcNumber < userNumber) {
     vincitore.innerHTML = "Il vincitore sei tu";
 } else {
-    vincitore.innerHTML = "Essendo i numeri uguali abbiamo un pareggio!";
+    vincitore.innerHTML = "Pareggio";
 }
 
 
